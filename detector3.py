@@ -1,4 +1,4 @@
-#main working face detector
+#main working face detector uses MONGO
 import cv2
 import numpy as np
 import os

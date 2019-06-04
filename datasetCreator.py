@@ -1,7 +1,7 @@
 """
 	code creates a dataset of images to be trained by opening camera and capturing
 	20 images of a detected face 
-	also takes input of user id and name of persons face and inserts into a database
+	also takes input of user id and name of persons face and inserts into a database (SQLITE3)
 """
 import cv2
 import numpy as np
